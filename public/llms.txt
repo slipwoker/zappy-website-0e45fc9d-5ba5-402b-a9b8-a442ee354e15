@@ -1,0 +1,114 @@
+# HUS — Generative Engine Optimization Map
+
+> HUS is a premium flagship smartphone brand launching the V1 Series — a line of high-end Android devices powered by their own in-house HUS G1 chip and HUSIONOS, a custom Android 16-based operating system. The brand exudes a futuristic, ultra-premium identity inspired by Apple and Samsung aesthetics, with a deep purple tech-forward visual language. Their standout innovation is HUSPrivate, a proprietary hand-recognition security system that locks the device instantly when an unverified hand touches it. HUS targets gamers and creators, with the tagline 'Power Your Game.' and a strong emphasis on performance, AI, and exclusivity.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+HUS redefines flagship smartphones with the V1 Series, HUS G1 chip, and HUSIONOS. Built for gamers and creators who demand more. Discover the future of mobile.
+
+### V1 Series
+https://example.com/v1-series
+The HUS V1 Series is here — ultra-premium Android powered by the G1 chip and HUSIONOS. Raw performance, stunning design, built to dominate. Explore hus v1 now.
+
+### Technology
+https://example.com/technology
+From the in-house HUS G1 processor to HUSIONOS on Android 16, discover the cutting-edge technology powering every HUS device. Performance and AI engineered for dominance.
+
+### Privacy
+https://example.com/privacy
+HUSPrivate is the world&#39;s most instinctive security — hand-recognition that locks instantly on unverified touch. Only HUS puts your privacy in the palm of your hand.
+
+### Contact
+https://example.com/contact
+Ready to experience HUS? Reach out for partnerships, press, or support. The team behind the hus v1 revolution is ready to connect with gamers, creators, and visionaries.
+
+### Products
+https://example.com/products
+Our Products - HUS
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - HUS
+
+### Category
+https://example.com/category/:slug
+Products - HUS
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About HUS
+HUS is a premium flagship smartphone brand launching the V1 Series — a line of high-end Android devices powered by their own in-house HUS G1 chip and HUSIONOS, a custom Android 16-based operating system. The brand exudes a futuristic, ultra-premium identity inspired by Apple and Samsung aesthetics, with a deep purple tech-forward visual language. Their standout innovation is HUSPrivate, a proprietary hand-recognition security system that locks the device instantly when an unverified hand touches it. HUS targets gamers and creators, with the tagline 'Power Your Game.' and a strong emphasis on performance, AI, and exclusivity.
+
+## Services/Products
+- HUS V1 smartphone ($699)
+- HUS V1 Pro smartphone ($999)
+- HUS G1 custom chip
+- HUSIONOS custom Android UI
+- HUSPrivate hand-recognition security system
+- HUS Studio Pro + Rush Pass Pro (1-year free offer)
+- Online shop with cart and checkout
+
+## Target Audience
+- gamers, creators, tech enthusiasts, premium smartphone buyers
+- Tech Enthusiast Creators
+- Mobile Gamers
+- Premium Smartphone Buyers
+
+## Industry
+consumer electronics / mobile technology
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
